@@ -5,7 +5,7 @@ Visual odometry for localization self driving cars is the process of localizing 
   <img 
     width="300"
     height="300"
-    src="[https://picsum.photos/300/300](https://raw.githubusercontent.com/BharatDadwaria/Visual_odometry_for_localization_self_driving_cars/main/vehicle_trajectory.PNG)"
+    src="https://raw.githubusercontent.com/BharatDadwaria/Visual_odometry_for_localization_self_driving_cars/main/vehicle_trajectory.PNG"
   >
 </p>
 ## Visual Odometry

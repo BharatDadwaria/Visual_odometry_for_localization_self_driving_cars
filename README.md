@@ -8,6 +8,8 @@ Visual odometry for localization self driving cars is the process of localizing 
     src="https://raw.githubusercontent.com/BharatDadwaria/Visual_odometry_for_localization_self_driving_cars/main/vehicle_trajectory.PNG"
   >
 </p>
+
+
 ## Visual Odometry
 
 * Estimation of the pose of the camera based on the motion information of the consecutive images. 

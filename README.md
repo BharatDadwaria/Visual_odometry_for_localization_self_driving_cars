@@ -1,5 +1,5 @@
-# Visual_odometry_for_localization_self_driving_cars_using_single_camera
-Visual odometry for localization self driving cars is the process of localizing the location of the self driving cars or any mobile vehicle using single camera. In order to done this project, camera pose estimation in the consecutive frames was used.
+# Visual_odometry_for_localizing_self_driving_cars_using_single_monoculer_camera
+The goal of this project was to localizing the location of the self driving cars or any mobile vehicle and estimating their trajectory based on a single monoculer camera. In order to done this project, Trajectory of the self driving car was estimated based on the camera pose estimation in the consecutive frames.
 
 <p align="center">
   <img 
